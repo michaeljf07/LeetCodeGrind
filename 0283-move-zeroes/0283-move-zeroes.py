@@ -3,12 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        i = 0
-        end = len(nums) - 1
+        lastNonZeroIndex = 0
 
-        while i <= end:
-            if nums[i] == 0:
-                nums.pop(i)
-                nums.append(0)
-            
-            i += 1
+        for i in range(len(nums)):
+            if nums[i] != 0:
+                nums[lastNonZeroIndex], nums[i] = nums[i], nums[lastNonZeroIndex]
+                lastNonZeroIndex += 1
