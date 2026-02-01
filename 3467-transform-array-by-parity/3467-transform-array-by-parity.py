@@ -1,12 +1,14 @@
 class Solution:
     def transformArray(self, nums: List[int]) -> List[int]:
-        ans = []
+        n = len(nums)
+        ptr = 0
+
         for num in nums:
             if num % 2 == 0:
-                ans.append(0)
-            else:
-                ans.append(1)
+                nums[ptr] = 0
+                ptr += 1
+        
+        for i in range(ptr, n):
+            nums[i] = 1
 
-        ans.sort()
-
-        return ans
+        return nums
