@@ -1,11 +1,10 @@
 class Solution:
     def subarraySum(self, nums: List[int]) -> int:
-        n = len(nums)
-        total_sum = 0
+        temp = []
 
-        for i in range(n):
+        for i in range(len(nums)):
             start = max(0, i - nums[i])
-            for j in range(start, i + 1):
-                total_sum += nums[j]
-        
-        return total_sum
+            sub_array = nums[start:i+1]
+            temp.append(sum(sub_array))
+
+        return sum(temp)
