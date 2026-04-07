@@ -40,4 +40,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/michaeljf07/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/michaeljf07/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/michaeljf07/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
