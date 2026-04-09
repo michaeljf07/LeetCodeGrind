@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/michaeljf07/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/michaeljf07/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [3285-find-indices-of-stable-mountains](https://github.com/michaeljf07/LeetCode/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
