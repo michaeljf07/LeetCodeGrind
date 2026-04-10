@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1470-shuffle-the-array](https://github.com/michaeljf07/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/michaeljf07/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -47,4 +48,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/michaeljf07/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
