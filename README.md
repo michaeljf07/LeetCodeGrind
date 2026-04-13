@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1688-count-of-matches-in-tournament](https://github.com/michaeljf07/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/michaeljf07/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/michaeljf07/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/michaeljf07/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/michaeljf07/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
