@@ -1,23 +1,20 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        counter = {}
+        counter_s, counter_t = {}, {}
+
+        if len(s) != len(t):
+            return False
 
         for char in s:
-            if char not in counter:
-                counter[char] = 1
+            if char not in counter_s:
+                counter_s[char] = 1
             else:
-                counter[char] += 1
+                counter_s[char] += 1
 
         for char in t:
-            if char in counter:
-                counter[char] -= 1
-                if counter[char] < 0:
-                    return False
+            if char not in counter_t:
+                counter_t[char] = 1
             else:
-                return False
+                counter_t[char] += 1
 
-        for key in counter:
-            if counter[key] != 0:
-                return False
-
-        return True
+        return counter_s == counter_t
