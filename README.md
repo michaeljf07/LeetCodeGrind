@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/michaeljf07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/michaeljf07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
@@ -132,4 +133,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/michaeljf07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
