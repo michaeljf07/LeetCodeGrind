@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/michaeljf07/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/michaeljf07/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/michaeljf07/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/michaeljf07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/michaeljf07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/michaeljf07/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/michaeljf07/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Tree
