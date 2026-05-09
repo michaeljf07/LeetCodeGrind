@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/michaeljf07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/michaeljf07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/michaeljf07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/michaeljf07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/michaeljf07/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/michaeljf07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/michaeljf07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Matrix
