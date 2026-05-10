@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/michaeljf07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/michaeljf07/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/michaeljf07/LeetCode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -181,5 +183,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0704-binary-search](https://github.com/michaeljf07/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
