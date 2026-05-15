@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/michaeljf07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/michaeljf07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/michaeljf07/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/michaeljf07/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Counting
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/michaeljf07/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/michaeljf07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0981-time-based-key-value-store](https://github.com/michaeljf07/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/michaeljf07/LeetCode/tree/main/3280-convert-date-to-binary/) | Easy |
 ## Bit Manipulation
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/michaeljf07/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/michaeljf07/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -191,4 +194,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/michaeljf07/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/michaeljf07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/michaeljf07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0981-time-based-key-value-store](https://github.com/michaeljf07/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
 <!---LeetCode Topics End-->
