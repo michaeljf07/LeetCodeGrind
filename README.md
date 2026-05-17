@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/michaeljf07/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/michaeljf07/LeetCode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -198,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/michaeljf07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/michaeljf07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/michaeljf07/LeetCode/tree/main/0981-time-based-key-value-store/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/michaeljf07/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
