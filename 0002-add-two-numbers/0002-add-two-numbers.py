@@ -8,19 +8,19 @@ class Solution:
         dummy = ListNode(0)
         cur = dummy
         carry = 0
+        
+        while l1 or l2 or carry:
+            v1 = l1.val if l1 else 0
+            v2 = l2.val if l2 else 0
 
-        while carry or l1 or l2:
-            val1 = l1.val if l1 else 0
-            val2 = l2.val if l2 else 0
+            new_digit = v1 + v2 + carry
+            carry = new_digit // 10
+            new_digit = new_digit % 10
 
-            total = val1 + val2 + carry
-            carry = total // 10
-            digit = total % 10
-
-            cur.next = ListNode(digit)
-            cur = cur.next
+            cur.next = ListNode(new_digit)
 
             l1 = l1.next if l1 else l1
             l2 = l2.next if l2 else l2
+            cur = cur.next
 
         return dummy.next
