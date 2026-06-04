@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Monotonic Stack
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Greedy
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0543-diameter-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
