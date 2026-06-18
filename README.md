@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/michaeljf07/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/michaeljf07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/michaeljf07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/michaeljf07/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/michaeljf07/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0208-implement-trie-prefix-tree](https://github.com/michaeljf07/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/michaeljf07/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0242-valid-anagram](https://github.com/michaeljf07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/michaeljf07/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -353,8 +356,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/michaeljf07/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/michaeljf07/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/michaeljf07/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
