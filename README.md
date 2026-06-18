@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/michaeljf07/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/michaeljf07/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/michaeljf07/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/michaeljf07/LeetCode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/michaeljf07/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/michaeljf07/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -352,4 +353,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/michaeljf07/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/michaeljf07/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/michaeljf07/LeetCode/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
