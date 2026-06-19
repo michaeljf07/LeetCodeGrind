@@ -3,8 +3,10 @@ class Solution:
         res = [[]]
 
         for num in nums:
-            copy = list(res)
-            for subset in copy:
-                res.append(subset + [num])
+            new_subsets = []
+            for subset in res:
+                new_subsets.append(subset + [num])
+            
+            res += new_subsets
 
         return res
