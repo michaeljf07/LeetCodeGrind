@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/michaeljf07/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/michaeljf07/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/michaeljf07/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/michaeljf07/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/michaeljf07/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0211-design-add-and-search-words-data-structure](https://github.com/michaeljf07/LeetCode/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/michaeljf07/LeetCode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -247,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/michaeljf07/LeetCode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
@@ -271,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -336,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/michaeljf07/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/michaeljf07/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
