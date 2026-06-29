@@ -1,7 +1,7 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         res = []
-        digit_to_char = {
+        digits_to_char = {
             "2": "abc",
             "3": "def",
             "4": "ghi",
@@ -17,9 +17,9 @@ class Solution:
                 res.append(cur)
                 return
 
-            for char in digit_to_char[digits[i]]:
+            for char in digits_to_char[digits[i]]:
                 backtrack(i + 1, cur + char)
-
+            
         if digits:
             backtrack(0, "")
 
