@@ -11,7 +11,6 @@ class Solution:
             ):
                 return
 
-            # convert current position to water to prevent infinite loops
             grid[row][col] = '0'
             for dr, dc in directions:
                 dfs(row + dr, col + dc)
