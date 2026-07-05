@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/michaeljf07/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/michaeljf07/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/michaeljf07/LeetCode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/michaeljf07/LeetCode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/michaeljf07/LeetCode/tree/main/2469-convert-the-temperature/) | Easy |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0853-car-fleet](https://github.com/michaeljf07/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/michaeljf07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/michaeljf07/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/michaeljf07/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
@@ -142,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/michaeljf07/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/michaeljf07/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0853-car-fleet](https://github.com/michaeljf07/LeetCode/tree/main/0853-car-fleet/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/michaeljf07/LeetCode/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/michaeljf07/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/michaeljf07/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/michaeljf07/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -283,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -402,4 +408,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/michaeljf07/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/michaeljf07/LeetCode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
