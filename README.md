@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 | [0853-car-fleet](https://github.com/michaeljf07/LeetCode/tree/main/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/michaeljf07/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1046-last-stone-weight](https://github.com/michaeljf07/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1470-shuffle-the-array](https://github.com/michaeljf07/LeetCode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/michaeljf07/LeetCode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/michaeljf07/LeetCode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/michaeljf07/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/michaeljf07/LeetCode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1046-last-stone-weight](https://github.com/michaeljf07/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
