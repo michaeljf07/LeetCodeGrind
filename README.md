@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/michaeljf07/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/michaeljf07/LeetCodeGrind/tree/main/0621-task-scheduler/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/michaeljf07/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/michaeljf07/LeetCode/tree/main/0704-binary-search/) | Easy |
 | [0739-daily-temperatures](https://github.com/michaeljf07/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/michaeljf07/LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/michaeljf07/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 ## Enumeration
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/michaeljf07/LeetCodeGrind/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/michaeljf07/LeetCode/tree/main/0212-word-search-ii/) | Hard |
+| [0695-max-area-of-island](https://github.com/michaeljf07/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0832-flipping-an-image](https://github.com/michaeljf07/LeetCode/tree/main/0832-flipping-an-image/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/michaeljf07/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/michaeljf07/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -380,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/michaeljf07/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0695-max-area-of-island](https://github.com/michaeljf07/LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/michaeljf07/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
