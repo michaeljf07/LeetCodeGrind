@@ -439,4 +439,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/michaeljf07/LeetCode/tree/main/0133-clone-graph/) | Medium |
+| [0286-neetcode-islands-and-treasures](https://neetcode.io/problems/islands-and-treasure/) | Medium |
 <!---LeetCode Topics End-->
