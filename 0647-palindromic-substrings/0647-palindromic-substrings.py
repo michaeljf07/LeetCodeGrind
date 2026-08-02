@@ -1,16 +1,14 @@
 class Solution:
     def countSubstrings(self, s: str) -> int:
         res = 0
-        for i in range(len(s)):
-            res += self.countPali(s, i, i)
-            res += self.countPali(s, i, i + 1)
-        return res
+        n = len(s)
+        
+        dp = [[False] * n for _ in range(n)] # dp[i][j] = whether s[i:j] is a palindrome
 
-    @staticmethod
-    def countPali(s: str, left: int, right: int) -> int:
-        res = 0
-        while left >= 0 and right < len(s) and s[left] == s[right]:
-            res += 1
-            left -= 1
-            right += 1
-        return res 
+        for i in range(n - 1, -1, -1):
+            for j in range(i, n):
+                if s[i] == s[j] and (j - i <= 2 or dp[i + 1][j - 1]):
+                    dp[i][j] = True
+                    res += 1
+
+        return res
