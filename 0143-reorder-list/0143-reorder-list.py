@@ -10,8 +10,8 @@ class Solution:
         """
         slow = fast = head
         while fast and fast.next:
-            fast = fast.next.next
             slow = slow.next
+            fast = fast.next.next
 
         curr = slow.next   # Points to the middle node
         prev = slow.next = None
@@ -22,7 +22,7 @@ class Solution:
             curr = temp
 
         first = head
-        second = prev
+        second = prev 
         while second:
             temp1 = first.next
             temp2 = second.next
