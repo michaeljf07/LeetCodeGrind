@@ -1,22 +1,16 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        # s = str(x)
+        is_negative = x < 0
+        x = abs(x)
 
-        # if s[0] == '-':
-        #     rev = '-' + s[:0:-1]
-        # else:
-        #     rev = s[::-1]
+        res = 0 
+
+        while x > 0:
+            # shift digits to right by one and add last number in x
+            res = (res * 10) + (x % 10)
+            x //= 10
         
-        # num = int(rev)
-        
-        # if -2**31 <= num <= 2**31 - 1:
-        #     return num
+        if res > 2**31 - 1:
+            return 0
 
-        sign: int = -1 if x < 0 else 1
-
-        rev = int(str(abs(x))[::-1]) * sign
-
-        if (-2 ** 31) <= rev <= (2 ** 31 - 1):
-            return rev
-        
-        return 0
+        return res * -1 if is_negative else res
