@@ -1,10 +1,4 @@
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
-        if n <= 0:
-            return False
-        elif n == 1:
-            return True
-        elif n % 2 == 0:
-            return self.isPowerOfTwo(n / 2)
-        else:
-            return False
+        # every power of 2 has exactly one bit that is 1
+        return n > 0 and (n & (n - 1)) == 0
