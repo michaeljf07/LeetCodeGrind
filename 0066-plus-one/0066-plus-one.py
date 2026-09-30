@@ -1,10 +1,10 @@
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        if len(digits) == 0:
-            return [1]
-
-        if digits[-1] != 9:
-            digits[-1] += 1
-            return digits
-        else:
-            return self.plusOne(digits[:-1]) + [0]
+        for i in range(len(digits) - 1, -1, -1):
+            if digits[i] < 9:
+                digits[i] += 1
+                return digits
+            digits[i] = 0
+        
+        # if all digits are 9, we have to add one more digits place
+        return [1] + digits
