@@ -3,19 +3,18 @@ class Solution:
         res = []
         candidates.sort()
 
-        def dfs(i: int, cur: List[int], total: int):
+        def dfs(i: int, path: list[int], total: int):
             if total == target:
-                res.append(cur.copy())
+                res.append(path.copy())
                 return
-
+            
             for j in range(i, len(candidates)):
                 if total + candidates[j] > target:
-                    return
-
-                cur.append(candidates[j])
-                dfs(j, cur, total + candidates[j])
-                cur.pop()
+                    break
+                
+                path.append(candidates[j])
+                dfs(j, path, total + candidates[j])
+                path.pop()
 
         dfs(0, [], 0)
-
         return res
