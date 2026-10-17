@@ -4,24 +4,25 @@ import heapq
 
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
-        time = 0
-
-        adj_map = defaultdict(list) # node -> (vertex, weight)
+        adj_map = defaultdict(list)  # node -> (neighbor, weight)
         for u, v, w in times:
             adj_map[u].append((v, w))
         
-        heap = [(k, 0)]  # stores (node, path_weight)
+        heap = [(0, k)]  # stores (path_weight, node)
         visited = set()
+        max_time = 0
+
         while heap:
-            node, path_weight = heapq.heappop(heap)
+            path_weight, node = heapq.heappop(heap)
+            
             if node in visited:
                 continue
             
             visited.add(node)
-            time = max(time, path_weight)
+            max_time = path_weight
 
-            for next_node, next_weight in adj_map[node]:
+            for next_node, weight in adj_map[node]:
                 if next_node not in visited:
-                    heapq.heappush(heap, (next_node, time + next_weight))
+                    heapq.heappush(heap, (path_weight + weight, next_node))
 
-        return time if len(visited) == n else -1
+        return max_time if len(visited) == n else -1
