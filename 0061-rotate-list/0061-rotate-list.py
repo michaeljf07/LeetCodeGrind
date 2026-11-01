@@ -28,7 +28,7 @@ class Solution:
         for _ in range(steps_to_new_tail):
             new_tail = new_tail.next
             
-        # Step 4: Break the circle and set new head
+        # break the circle and set new head
         new_head = new_tail.next
         new_tail.next = None
         
