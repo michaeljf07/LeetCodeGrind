@@ -8,22 +8,22 @@ class Solution:
     def maxPathSum(self, root: Optional[TreeNode]) -> int:
         self.max_seen = float("-infinity")
 
-        def dfs(node: TreeNode):
-            if not node:
+        def dfs(root: TreeNode | None) -> None:
+            if not root:
                 return 0
-
-            left_max = dfs(node.left)
-            right_max = dfs(node.right)
             
+            # find max path sum of left and right subtrees
+            left_max = dfs(root.left)
+            right_max = dfs(root.right)
+            # if path sum is negative, exclude it (set sum to 0)
             left_max = max(left_max, 0)
             right_max = max(right_max, 0)
 
-            current_path_sum = node.val + left_max + right_max
+            # update max_seen with current path
+            current_path = root.val + left_max + right_max
+            self.max_seen = max(self.max_seen, current_path)
 
-            self.max_seen = max(self.max_seen, current_path_sum)
-
-            return node.val + max(left_max, right_max)
-
+            return root.val + max(left_max, right_max)
+        
         dfs(root)
-
         return self.max_seen
