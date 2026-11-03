@@ -5,21 +5,23 @@
 #         self.left = None
 #         self.right = None
 
-class Solution:
-    def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-        if not root:
-            return None
 
-        # found p or q in tree
+class Solution:
+    def lowestCommonAncestor(
+        self, root: "TreeNode", p: "TreeNode", q: "TreeNode"
+    ) -> "TreeNode":
+        if not root:
+            return root
+
         if root.val == p.val or root.val == q.val:
             return root
-        
+
+        # find p and q in the left and right subtrees
         left = self.lowestCommonAncestor(root.left, p, q)
         right = self.lowestCommonAncestor(root.right, p, q)
 
-        # if p and q are found in different subtrees, root must be the LCA
+        # p and q found in subtrees => root is LCA
         if left and right:
             return root
 
-        # if one of left or right is not NULL, return it
-        return left if left else right
+        return left if left else right  # return non-NULL node
