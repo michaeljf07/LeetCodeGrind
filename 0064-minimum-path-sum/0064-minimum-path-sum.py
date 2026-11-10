@@ -2,22 +2,16 @@ class Solution:
     def minPathSum(self, grid: list[list[int]]) -> int:
         ROWS, COLS = len(grid), len(grid[0])
 
-        # (i, j) -> min sum of the numbers along the path from top left to (i,j)
-        memo = {}
+        # dp[c] = the min path sum from the row above
+        dp = [float("inf")] * COLS
+        dp[0] = 0
 
-        def dfs(row: int, col: int) -> int:
-            # reached the bottom right corner (beginning of top down approach)
-            if row == ROWS - 1 and col == COLS - 1:
-                return grid[ROWS - 1][COLS - 1]
-            # out of bounds check
-            if row >= ROWS or col >= COLS:
-                return float("inf") 
+        for r in range(ROWS):
+            # for the first column, you can only arrive from directly above
+            dp[0] += grid[r][0]
 
-            if (row, col) in memo:
-                return memo[(row, col)]
+            for c in range(1, COLS):
+                # dp[c] is from the cell above; dp[c - 1] is from the cell to the left
+                dp[c] = grid[r][c] + min(dp[c], dp[c - 1])
 
-            # the next cell is either below or to the right of the current cell
-            memo[(row, col)] = grid[row][col] + min(dfs(row + 1, col), dfs(row, col + 1))
-            return memo[(row, col)]
-
-        return dfs(0, 0)
+        return dp[-1]
