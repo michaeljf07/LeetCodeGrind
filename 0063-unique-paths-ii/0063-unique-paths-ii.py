@@ -8,14 +8,18 @@ class Solution:
 
         dp = [[0] * COLS for _ in range(ROWS)]
         dp[0][0] = 1
-
+        
         for row in range(ROWS):
             for col in range(COLS):
-                if (row == 0 and col == 0) or obstacleGrid[row][col] == OBSTACLE:
+                # already defined base case above
+                if row == 0 and col == 0:
                     continue
-                # since we initalize all dp values to 0, we don't have to check for obstacles
-                from_top = dp[row - 1][col] if row > 0 else 0
+                # skip squares that are obstacles
+                if obstacleGrid[row][col] == OBSTACLE:
+                    continue
+                
                 from_left = dp[row][col - 1] if col > 0 else 0
-                dp[row][col] = from_top + from_left
+                from_top = dp[row - 1][col] if row > 0 else 0
+                dp[row][col] = from_left + from_top
 
         return dp[ROWS - 1][COLS - 1]
