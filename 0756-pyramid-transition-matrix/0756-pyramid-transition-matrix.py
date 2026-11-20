@@ -9,6 +9,7 @@ class Solution:
         for triangle in allowed:
             self.triangle_map[triangle[:2]].append(triangle[2])
 
+        self.failed = set()
         return self.backtrack(list(bottom), 0, [])
 
     # bottom: current bottom row
@@ -18,6 +19,12 @@ class Solution:
         # Base Case: next row has one block means we have built the triangle
         if len(bottom) == 1:
             return True
+
+        if bot_idx == 0:
+            next_row_str = "".join(bottom)
+            if next_row_str in self.failed:
+                return False
+
         # finished building the next row
         if bot_idx == len(bottom) - 1:
             return self.backtrack(next_row, 0, [])
@@ -29,5 +36,8 @@ class Solution:
             if self.backtrack(bottom, bot_idx + 1, next_row):
                 return True
             next_row.pop()  # backtrack
+
+        if bot_idx == 0:
+            self.failed.add("".join(bottom))
 
         return False
